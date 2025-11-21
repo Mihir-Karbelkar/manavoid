@@ -1,0 +1,5 @@
+paho-mqtt
+opencv-python
+Pillow
+transformers
+torch
